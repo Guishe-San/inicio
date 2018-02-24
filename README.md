@@ -1,2 +1,2 @@
-# pw-02
+# inicio
 Guillermo Josué Castillo López 00253968
